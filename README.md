@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/datawrapper-blog-post/master?urlpath=lab%2Ftree%2Fnotebooks%2Fdatawrapper-blog-post.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/datawrapper-blog-post/master?urlpath=lab%2Ftree%2Fnotebooks%2Fblog-post-example.ipynb)
 ***
 datawrapper-blog-post
 ==============================
