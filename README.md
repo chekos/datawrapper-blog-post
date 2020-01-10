@@ -1,8 +1,6 @@
 datawrapper-blog-post
 ==============================
 
-* project code: 0000
-
 A repo containing the sample code for datawrapper's blog post
 
 Project Organization
